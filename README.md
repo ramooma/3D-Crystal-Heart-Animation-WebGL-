@@ -20,7 +20,7 @@ Instead of importing a pre-made 3D model, the heart is generated entirely throug
 - **Concepts:** Particle Systems, 3D Mathematics, Shader Programming.
 
 ## 🌐 Live Demo
-
+https://ramooma.github.io/3D-Crystal-Heart-Animation-WebGL-/
 
 ---
 *A passion project showcasing the beautiful intersection of mathematics, coding, and creative web design.*
